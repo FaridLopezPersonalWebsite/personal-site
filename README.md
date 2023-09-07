@@ -1,2 +1,1 @@
-# personal-site
-Welcome to my Personal Site! 
+## Welcome to my Personal Site! 
