@@ -4,3 +4,5 @@
 ## portfolio.html is my project page showcasing my current projects! 
 ## css and js applies to ALL pages!
 ## enjoy!  
+## NEW:
+## Added contact.html and submit.html to link the submit button
