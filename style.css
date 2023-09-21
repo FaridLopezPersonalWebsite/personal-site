@@ -13,6 +13,12 @@ body {
     float: right;
 }
 
+.about-summary{
+    display: grid;
+    text-align: center;
+    position: relative;
+}
+
 header {
     color: bisque;
     padding: 1px;
@@ -37,12 +43,13 @@ header {
 }
 
 
+
 h1 {
     font-size: 25px;
     text-shadow: black 0 3px;
 }
 
-h2, h3{
+h2, h3, .contact-form{
     color: bisque;
     font-size: 18px;
     text-shadow: black 0 3px;
@@ -71,3 +78,4 @@ footer {
     padding: 5px;
     color: bisque;
 }
+
