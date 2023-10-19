@@ -49,6 +49,12 @@ h1 {
     text-shadow: black 0 3px;
 }
 
+@media (any-hover: hover) {
+    h2:hover {
+        background: olive;
+    }
+}
+
 h2, h3, .contact-form{
     color: bisque;
     font-size: 18px;
